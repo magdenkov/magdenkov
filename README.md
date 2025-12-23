@@ -9,7 +9,8 @@ If you need someone who can **own complex backend architecture**, **optimize per
 
 I bring **15+ years of hands‑on engineering experience** across backend, frontend, cloud, DevOps, and team leadership — with a strong focus on **quality, reliability, and scalability**.
 
-📬 Contact Me
+ 📬 Contact Me
+
 If you'd like to discuss a project, consulting, or long‑term collaboration, feel free to reach out through any of the channels below:
 📧 Email
 magdenkov@gmail.com

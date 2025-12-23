@@ -1,18 +1,16 @@
 # 👋 Hi, I'm Denis Magdenkov  
 ### Senior Software Engineer • Backend Architect • Distributed Systems Specialist  
 ### **💼 Available for hire — €50/hour**
-
-I help companies **design, build, and scale** high‑performance distributed systems.  
-If you need someone who can **own complex backend architecture**, **optimize performance**, **lead teams**, and **deliver production‑ready solutions**, I’m your guy.
-I bring **15+ years of hands‑on engineering experience** across backend, frontend, cloud, DevOps, and team leadership — with a strong focus on **quality, reliability, and scalability**.
+Here you go, Denis — a clean, polished, fully Markdown‑formatted version of your contact and company information.
+You can paste this directly into your GitHub README.
 
 📬 Contact Me
 If you'd like to discuss a project, consulting, or long‑term collaboration, feel free to reach out through any of the channels below:
 📧 Email
 magdenkov@gmail.com
 💬 Messaging
-- WhatsApp: wa.me/+79219859556
-- Telegram: t.me/+79219859556
+- WhatsApp: https://wa.me/+79219859556
+- Telegram: https://t.me/+79219859556
 
 🏢 Company Details
 Registered Address:
@@ -20,29 +18,7 @@ Building 414, Apartment 161
 Microdistrict 4, Varketili Settlement‑3
 Tbilisi 0163, Georgia
 Location:
-I am based in Georgia, working worldwide with clients across Europe, the US, and beyond.
-Official Company Registration:
-You can verify my company details via the Georgian Business Registry:
-https://bs.napr.gov.ge/GetBlob?pid=400&bid=boVlyOwlsX3qmYsntmLmFC6XrkZZ5V6RonnnSY2gsDMJOvIr[E0noZSdxiK8Di[[
-(The image you included can’t be embedded directly in the README unless you upload it to your repo, but the link above is already sufficient for verification.)
-
-If you want, I can integrate this section directly into your full README, placing it in the best spot and ensuring the style matches the rest of the document.
-
-
-If you'd like to discuss a project, consulting, or long‑term collaboration, feel free to reach out through any of the channels below:
-📧 Email
-magdenkov@gmail.com
-💬 Messaging
-- WhatsApp: wa.me/+79219859556
-- Telegram: t.me/+79219859556
-
-🏢 Company Details
-Registered Address:
-Building 414, Apartment 161
-Microdistrict 4, Varketili Settlement‑3
-Tbilisi 0163, Georgia
-Location:
-I am based in Georgia, working worldwide with clients across Europe, the US, and beyond.
+Based in Georgia, available worldwide for remote work and international collaboration.
 Official Company Registration:
 You can verify my company details via the Georgian Business Registry:
 

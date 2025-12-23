@@ -5,21 +5,18 @@
 
 📬 Contact Me
 If you'd like to discuss a project, consulting, or long‑term collaboration, feel free to reach out through any of the channels below:
-📧 Email
+- 📧 Email
 magdenkov@gmail.com
-💬 Messaging
+- 💬 Messaging
 - WhatsApp: https://wa.me/+79219859556
 - Telegram: https://t.me/+79219859556
 
 🏢 Company Details
-Registered Address:
-Building 414, Apartment 161
-Microdistrict 4, Varketili Settlement‑3
-Tbilisi 0163, Georgia
-Location:
-Based in Georgia, available worldwide for remote work and international collaboration.
-Official Company Registration:
-You can verify my company details via the Georgian Business Registry:
+- Registered Address: Building 414, Apartment 161, Microdistrict 4, Varketili Settlement‑3
+- Tbilisi 0163, Georgia
+- Location: Based in Georgia, available worldwide for remote work and international collaboration.
+#Official Company Registration:
+- You can verify my company details via the Georgian Business Registry:
 
 https://bs.napr.gov.ge/GetBlob?pid=400&bid=boVlyOwlsX3qmYsntmLmFC6XrkZZ5V6RonnnSY2gsDMJOvIr[E0noZSdxiK8Di[[
 

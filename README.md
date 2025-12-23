@@ -1,8 +1,7 @@
 # 👋 Hi, I'm Denis Magdenkov  
 ### Senior Software Engineer • Backend Architect • Distributed Systems Specialist  
 ### **💼 Available for hire — €50/hour**
-Here you go, Denis — a clean, polished, fully Markdown‑formatted version of your contact and company information.
-You can paste this directly into your GitHub README.
+
 
 📬 Contact Me
 If you'd like to discuss a project, consulting, or long‑term collaboration, feel free to reach out through any of the channels below:

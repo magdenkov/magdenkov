@@ -10,8 +10,6 @@ I bring **15+ years of hands‑on engineering experience** across backend, front
 
 
 
- Contact Me
-
 If you'd like to discuss a project, consulting, or long‑term collaboration, feel free to reach out through any of the channels below:
 📧 Email
 magdenkov@gmail.com

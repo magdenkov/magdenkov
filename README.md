@@ -13,7 +13,10 @@ magdenkov@gmail.com
 
 # 🏢 Company Details
 - Registered Address: Building 414, Apartment 161, Microdistrict 4, Varketili Settlement‑3
-- Tbilisi 0163, Georgia
+- Tbilisi 0163, Georgia 
+- Firm Name: Individual Entrepreneur Denis Magdenkov 
+- Legal Form: Individual Entrepreneur 
+- Identification Number: 306510503
 - Location: Based in Georgia, available worldwide for remote work and international collaboration.
 # Official Company Registration:
 - You can verify my company details via the Georgian Business Registry:

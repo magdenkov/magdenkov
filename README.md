@@ -26,6 +26,7 @@ Location:
 I am based in Georgia, working worldwide with clients across Europe, the US, and beyond.
 Official Company Registration:
 You can verify my company details via the Georgian Business Registry:
+
 https://bs.napr.gov.ge/GetBlob?pid=400&bid=boVlyOwlsX3qmYsntmLmFC6XrkZZ5V6RonnnSY2gsDMJOvIr[E0noZSdxiK8Di[[
 
 <img width="1570" height="1319" alt="image" src="https://github.com/user-attachments/assets/a7dfa4f0-dd29-41fd-9fb8-246494d80965" />

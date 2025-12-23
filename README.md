@@ -1,56 +1,101 @@
-Senior Software Engineer • Backend Architect • Distributed Systems Enthusiast
-With 14+ years of experience, I build scalable, resilient, and high‑performance systems across backend, frontend, and cloud‑native ecosystems. I love solving complex engineering problems, optimizing performance, and mentoring teams to deliver clean, maintainable, production‑ready software.
+---
 
-🚀 About Me
-- Backend-focused engineer with strong full‑stack capabilities
-- Passionate about distributed systems, cloud-native architectures, and performance tuning
-- Experienced in leading teams, improving engineering processes, and driving technical excellence
-- Advocate of clean code, BDD/TDD, and thoughtful system design
+# 👋 Hi, I'm Denis Magdenkov  
+### Senior Software Engineer • Backend Architect • Distributed Systems Specialist  
+### **💼 Available for hire — €50/hour**
 
-⚡ Tech Stack & Expertise
-🧩 Backend Development
-- Languages: Java (5–21), Kotlin, Scala, Go, Rust
-- Java Core: Concurrency, JMM, GC tuning
-- Java EE (5–7): EJB, JMS, JPA (Hibernate), JSP/JSF, Servlets
-- Servers: JBoss/WildFly, GlassFish, WebLogic, Tomcat, Jetty, Netty, Undertow
-- Spring: Boot, MVC, Data, Security, AOP, WS, Messaging, Spring Cloud, SCDF
-- Scala: Akka (HTTP, Streams, Persistence, Cluster Sharding), Spray
-- Netflix OSS: Eureka, Hystrix, Archaius, Feign
+I help companies **design, build, and scale** high‑performance distributed systems.  
+If you need someone who can **own complex backend architecture**, **optimize performance**, **lead teams**, and **deliver production‑ready solutions**, I’m your guy.
 
-🎨 Frontend Development
-- Languages: JavaScript (ES6–ES18), TypeScript
-- Frameworks: Vue.js 2, AngularJS 1.x, Angular 2+, jQuery, RxJS
-- Styling: HTML5, CSS3, Bootstrap 3/4, SASS/LESS
-- Build Tools: Webpack, npm, Gulp, Grunt
+I bring **14+ years of hands‑on engineering experience** across backend, frontend, cloud, DevOps, and team leadership — with a strong focus on **quality, reliability, and scalability**.
 
-🗄️ Databases
-- Relational: MySQL/MariaDB, PostgreSQL, Oracle
-- NoSQL: MongoDB, Redis, Cassandra, DynamoDB
-- Search: Elasticsearch
+---
 
-📡 Messaging & Streaming
-- Kafka, RabbitMQ, ActiveMQ
-- AWS SQS & SNS
+## 🚀 What I Offer
 
-🛠️ DevOps & Cloud
-- Containers & Orchestration: Docker, Kubernetes (kubectl, k9s, ArgoCD, Ambassador)
-- Cloud: AWS (EC2, S3, ElastiCache, Elasticsearch, Lambda, ECS/EKS)
-- IaC: Terraform
-- CI/CD: Jenkins, TeamCity
-- Monitoring: ELK/EFK, Datadog, New Relic, Istio
-- Linux: Shell scripting, cron, system administration
+- High‑performance backend development (Java, Kotlin, Scala, Go, Rust)  
+- Distributed systems & microservices architecture  
+- Cloud‑native development (Kubernetes, Docker, AWS)  
+- Event‑driven systems (Kafka, RabbitMQ, SQS/SNS)  
+- Full‑stack development (Vue, Angular, TypeScript)  
+- CI/CD pipelines, IaC, automation  
+- Team leadership, mentoring, and process optimization  
+- Performance tuning (JVM, GC, concurrency, profiling)
 
-🤝 Collaboration & Leadership
-- Agile (Scrum, Kanban)
-- Jira, Confluence
-- Code quality: SonarQube, code reviews
-- Led teams of 4–5 developers, mentoring and optimizing delivery processes
+---
 
-📈 What I’m Focused On
-- Building resilient distributed systems
-- Cloud-native architectures and Kubernetes tooling
-- Performance optimization and observability
-- Mentoring engineers and improving team workflows
+## 🏷️ Badges
 
-📫 Connect With Me
-Feel free to reach out — always open to interesting discussions, architecture debates, and collaboration.
+### **Languages & Frameworks**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+
+### **Frontend**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-42B883?style=for-the-badge&logo=vue.js&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+
+### **Cloud & DevOps**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+
+### **Databases**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+
+---
+
+## 🧩 Tech Stack (Detailed)
+
+### **Backend**
+Java (5–21), Kotlin, Scala, Go, Rust  
+Spring Boot, Spring Cloud, Akka, Netflix OSS  
+JPA/Hibernate, JMS, EJB, Servlets, Netty, Undertow  
+
+### **Frontend**
+JavaScript, TypeScript, Vue.js, Angular, RxJS, jQuery  
+
+### **Databases**
+PostgreSQL, MySQL/MariaDB, Oracle, MongoDB, Redis, Cassandra, DynamoDB  
+
+### **Messaging**
+Kafka, RabbitMQ, ActiveMQ, AWS SQS/SNS  
+
+### **Cloud & DevOps**
+AWS, Docker, Kubernetes, Terraform, Jenkins, TeamCity, ArgoCD  
+
+### **Monitoring**
+ELK/EFK, Datadog, New Relic, Istio  
+
+---
+
+## 🤝 Let’s Work Together
+
+If you need a senior engineer who can:
+
+- take ownership of complex systems  
+- improve performance and reliability  
+- lead and mentor a team  
+- deliver high‑quality, production‑ready software  
+
+I’m available for **€50/hour**.
+
+---
+
+If you'd like, I can also create:
+
+- a **dark‑mode version**,  
+- a **more minimalistic version**,  
+- or a **more visually heavy version** with banners and SVGs.
+
+Just tell me which direction you want to take.

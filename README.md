@@ -5,12 +5,8 @@
 
 📬 Contact Me
 If you'd like to discuss a project, consulting, or long‑term collaboration, feel free to reach out through any of the channels below:
-- 📧 Email
-magdenkov@gmail.com
-- 💬 Messaging
-- WhatsApp: https://wa.me/+79219859556
-- Telegram: https://t.me/+79219859556
-- PHONE: +995568826553 ; +79219859556
+- 📧 Email: magdenkov@gmail.com
+- PHONE:     +995568826553 
 
 # 🏢 Company Details
 - Registered Address: Building 414, Apartment 161, Microdistrict 4, Varketili Settlement‑3

@@ -16,7 +16,7 @@ If you'd like to discuss a project, consulting, or long‑term collaboration, fe
 - Identification Number: 306510503
 - Location: Based in Turkey, available worldwide for remote work and international collaboration.
 # Official Company Registration:
-- You can verify my company details via the Georgian Business Registry:
+- You can verify my company details via the Turkish Business Registry:
 
 https://bs.napr.gov.ge/GetBlob?pid=400&bid=boVlyOwlsX3qmYsntmLmFC6XrkZZ5V6RonnnSY2gsDMJOvIr[E0noZSdxiK8Di[[
 

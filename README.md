@@ -14,7 +14,7 @@ magdenkov@gmail.com
 
 # 🏢 Company Details
 - Registered Address: Building 414, Apartment 161, Microdistrict 4, Varketili Settlement‑3
-- Mahmutlar, Tukery 
+- Mahmutlar, Turkey 🇹🇷
 - Firm Name: Individual Entrepreneur Denis Magdenkov 
 - Legal Form: Individual Entrepreneur 
 - Identification Number: 306510503

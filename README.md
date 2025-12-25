@@ -18,7 +18,7 @@ magdenkov@gmail.com
 - Firm Name: Individual Entrepreneur Denis Magdenkov 
 - Legal Form: Individual Entrepreneur 
 - Identification Number: 306510503
-- Location: Based in Georgia, available worldwide for remote work and international collaboration.
+- Location: Based in Turkey, available worldwide for remote work and international collaboration.
 # Official Company Registration:
 - You can verify my company details via the Georgian Business Registry:
 
